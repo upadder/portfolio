@@ -1,0 +1,145 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "JustApply.ai: Personal Resume and Cover letter builder",
+      "createdAt": "2021-01-06T06:36:41Z",
+      "url": "https://github.com/Viral-Doshi/JustApply.ai",
+      "description": "🚀 Use ChatGPT and LLM's extensive power to personalize your resume and pass ATS scanning with amazing score",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React JS",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "ChatGPT",
+          "iconifyClass": "logos-openai-icon"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Mobile Application : Interview Achiever",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://play.google.com/store/apps/details?id=interview.interview_achiever&hl=en_US&gl=US",
+      "description": "🔥 Mobile App created for final year undergradute students for preparation of technical and HR interviews",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos-flutter"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Android",
+          "iconifyClass": "devicon-android"
+        }
+        
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Virtual Paint using OpenCV",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/upadder/VirtualPaint",
+      "description": "📦 User can create paintings virtually on live video, Project made using OpenCV.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "logos-opencv"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Corona Live Tracker Notification System(WebScrapper)",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/upadder/CoronaIndianLiveTrackerNotificationSystem",
+      "description": "🌀 Web scraper python program can be used to Live track the number of cases of Covid-19 in india both total and Statewise",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Personal Python Assitant",
+      "createdAt": "2021-11-26T17:56:07Z",
+      "url": "https://github.com/upadder/desktopAssistantPython",
+      "description": "⚙️ Personal Python virtual assitant that can help do you windows task using voice",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "logos-opencv"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Face Identifier using Haarcascade",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://github.com/Prakash1919/react-liquidswipe",
+      "description": "🚀 Simple Face Identifier made in Python using OpenCV which can identify any face in the images, the best thing is that we use a cascade already built and trained named as Haarcascade.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "logos-opencv"
+        }
+      ]
+    }
+  ]
+}
