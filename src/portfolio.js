@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "An enthusiastic individual dedicated to developing end-to-end products that build sustainable and scalable social and technical systems, aiming to generate a significant impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1WY9ZijAXsR5ukTUdEHEtw-aBhxdlRnwH/view?usp=sharing",
+    "https://drive.google.com/file/d/1RFxzUdUG4HcJcgIraqdrWiBTjMkjp6TK/view?usp=sharing",
   portfolio_repository: "https://github.com/Prakash1919/masterPortfolio",
   githubProfile: "https://github.com/upadder",
 };
